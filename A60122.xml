@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The master of the Temple as bad a lawyer as the Dean of Pauls is a divine in a letter from a gentleman of the Temple, to his (quondam) tutor in Oxford, about the law part of Dr. Sherlock's modest examiniation of the Oxford decree.</title>
+            <author>Shower, Bartholomew, Sir, 1658-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60122</idno>
+            <idno type="STC">Wing S3656</idno>
+            <idno type="STC">ESTC R24536</idno>
+            <idno type="EEBO-CITATION">08240233</idno>
+            <idno type="OCLC">ocm 08240233</idno>
+            <idno type="VID">41144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1240:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The master of the Temple as bad a lawyer as the Dean of Pauls is a divine in a letter from a gentleman of the Temple, to his (quondam) tutor in Oxford, about the law part of Dr. Sherlock's modest examiniation of the Oxford decree.</title>
+                  <author>Shower, Bartholomew, Sir, 1658-1701.</author>
+               </titleStmt>
+               <extent>26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by E. Whitlock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherlock, William, 1641?-1707. --  Modest examination of the authority and reasons of the late decree of the vice-chancellor of Oxford.</term>
+               <term>University of Oxford.</term>
+               <term>Trinity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41144:1"/>
+            <pb facs="tcp:41144:1"/>
+            <p>THE Maſter of the Temple A bad a <hi>LAWYER,</hi> AS THE <hi>Dean of Pauls</hi> Is a <hi>DIVINE.</hi>
+            </p>
+            <p>IN <hi>A</hi> Letter <hi>from a Gentleman of the</hi> Tem<g ref="char:EOLhyphen"/>ple, <hi>to his</hi> (quondam) <hi>Tutor in</hi> Ox<g ref="char:EOLhyphen"/>ford.</p>
+            <p>
+               <hi>About the Law-Part of Dr.</hi> Sherlock's <hi>modeſt Examination of the</hi> Oxford <hi>Decree.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed, and Sold by <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:41144:2"/>
+            <pb n="1" facs="tcp:41144:2"/>
+            <head>
+               <hi>A</hi> Letter <hi>from a</hi> Lawyer <hi>in the</hi> Tem<g ref="char:EOLhyphen"/>ple, <hi>to his</hi> (quondam) <hi>Tutor in</hi> Ox<g ref="char:EOLhyphen"/>ford.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough it be ſome time ſince <hi>I</hi> left the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> yet my Obligations to it continue freſh upon me. <hi>I</hi> have ſtill (and ever ſhall have) the ſame Concern for its Honour and Intereſt, that I had when I was actually a <hi>Member</hi> there. In Truth, the <hi>So<g ref="char:EOLhyphen"/>cinians,</hi> the <hi>Tritheiſts,</hi> and <hi>Latitudinarians</hi> both in Opinion and Practice, increaſe ſo faſt in this Town, that they frequently provoke
+<pb n="2" facs="tcp:41144:3"/>a Wiſh for my Return thither. For, notwith<g ref="char:EOLhyphen"/>ſtanding the Calumny and Reproach which Hereticks and Diſſenters have caſt upon that Seminary of Learning and Vertue, in Con<g ref="char:EOLhyphen"/>tempt of the Publick Opinion of the greateſt part of the Chriſtian World; yet I muſt declare, that I obſerv'd Probity, Good manners, and Religion, more Viſible and Exemplary in that Place, than they can be pretended to be amongſt Us here.</p>
+            <div type="part">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I cannot but with great Concern Ac<g ref="char:EOLhyphen"/>knowledge, that Your Pulpits are more earn<g ref="char:EOLhyphen"/>eſt in Recommending Practical Piety than Ours, notwithſtanding the Youth of thoſe who generally fill 'em. <hi>Our Maſter</hi> enter<g ref="char:EOLhyphen"/>tains us of late with ſuch Arguments and Conceſſions about Chriſtianity, that Infidels ſeem rather encourag'd than convinc'd by his Reaſonings. One while he confeſſes the Souls of Brutes to be Immaterial, and anon
+<pb n="3" facs="tcp:41144:3"/>he ſuppoſes ſome hidden unreveal'd Decree of the Deity for their Annihilation at Death; and yet again argues from the Immateriali<g ref="char:EOLhyphen"/>ty of an Human Soul, that the ſame is ne<g ref="char:EOLhyphen"/>ceſſarily Immortal, and <hi>muſt</hi> endure to Eter<g ref="char:EOLhyphen"/>nity. Theſe, and ſuch like Diſcourſes from the Pulpit, fill the Coffee-houſes about Us, upon <hi>Sunday</hi> Evenings, with many Wild Diſ<g ref="char:EOLhyphen"/>putes concerning a future ſtate: And in truth, the Deans Sermons, together with three of his <hi>Old Friend</hi>'s, viz. <hi>One,</hi> concern<g ref="char:EOLhyphen"/>ing the <hi>Temporary Duration of Hell-Torments;</hi> and to prove, that God is not oblig'd to ful<g ref="char:EOLhyphen"/>fill his Threatnings, but that, on the con<g ref="char:EOLhyphen"/>trary, it may be for his Honour to be better than his Word: A <hi>Second,</hi> concerning the <hi>Concealment of a Man's Chriſtianity</hi> under a Mahometan or Pagan Government, rather than diſturb it: And a <hi>Third,</hi> concerning the <hi>Perfection of True Wiſdom (if a Man can hit it) in the Practice of an appearing freedom and openneſs, with a Reſolute Reſervedneſs, as
+<pb n="4" facs="tcp:41144:4"/>little appearing as is poſſible:</hi> Theſe, I ſay, have given ſuch Subjects of Diſcourſe to the Youth of this Place, that 'tis ſcarce Imagi<g ref="char:EOLhyphen"/>nable how much the Number of the Pre<g ref="char:EOLhyphen"/>tended Wits and Atheiſts is of late encrea<g ref="char:EOLhyphen"/>ſed.</p>
+               <p>But Sir, the informing you in theſe Par<g ref="char:EOLhyphen"/>ticulars was not the Deſign of this Letter; tho I could not forbear Complaining of the Decay of Religion, to You, whoſe Prayers may aſſiſt to ſtop it, and to beg of God the Forgiveneſs and Reformation of thoſe, who occaſion or promote it. What I intend by this Paper, is, to ſhew my Duty and Filial Regards to my Mother Univerſity, by mak<g ref="char:EOLhyphen"/>ing a ſhort Obſervation, or two, upon the 7th Page of our Dean's <hi>Satyr,</hi> on the Proceed<g ref="char:EOLhyphen"/>ings about <hi>Mr. Bingham</hi>'s Sermon.</p>
+               <p>I ſhall not preſume to venture upon any Argument about the Opinion Cenſur'd. <hi>My</hi>
+                  <pb n="5" facs="tcp:41144:4"/>Reverence for your Knowledge in theſe Matters, and the Application of my Studies another way, do expreſly forbid it.</p>
+               <p>That which I here offer to your Conſi<g ref="char:EOLhyphen"/>deration muſt be agreed proper to the Pro<g ref="char:EOLhyphen"/>feſſion I am now engag'd in, <hi>viz.</hi> An Eſſay, to prove, that the <hi>Vice-Chancelour, Bp. of Ox<g ref="char:EOLhyphen"/>ford,</hi> and <hi>Heads of Houſes</hi> there, have not in<g ref="char:EOLhyphen"/>curr'd any <hi>Premunire,</hi> or other danger, to themſelves, or the Univerſity, in their late procedure about the Sermon above-menti<g ref="char:EOLhyphen"/>on'd: And (to tell you my Opinion freely in this matter) if the Dean's <hi>Divinity</hi> be no better than his <hi>Law,</hi> I think him deeply engag'd to the Legiſlative Power, which took away the <hi>Writ de Haeretico Comburendo.</hi> He is pleas'd to inſinuate, That you ought to have advis'd with men of Skill, how far your Irregular and Unſtatutable Proceeding might affect you. I take the thing to be ſo very plain, that you needed no Conſultation with <hi>Lawyers</hi>
+                  <pb n="6" facs="tcp:41144:5"/>before-hand, nor afterward neither. But, ſince the menaces pronounc'd have proceed<g ref="char:EOLhyphen"/>ed from a Perſon, whoſe Station and Con<g ref="char:EOLhyphen"/>verſe ſuppoſe him advis'd by men of Skill, <hi>Some,</hi> on your behalf, have conſider'd the matter; and I find the <hi>Templars</hi> to ſmile at the Deans Preſumption, in pretending to im<g ref="char:EOLhyphen"/>poſe on the World (eſpecially on his Neigh<g ref="char:EOLhyphen"/>bours, the men of the Law) a <hi>Proviſo,</hi> in an Act of Parliament, which ſtands repeal'd by a ſubſequent Act; and upon which Repeal the greateſt miſcarriages of the Laſt Reign are Founded. For, in truth, the Suſpenſion of the <hi>B. of London,</hi> and the Buſineſs of <hi>Magdalen-Colledge</hi> were no miſcarriages, but upon that ſuppoſal, <hi>viz.</hi> That the Act in the Firſt of <hi>Elizabeth,</hi> erecting an High-Com<g ref="char:EOLhyphen"/>miſſion-Court, was a New Law; and that therefore being repeal'd, any the like Com<g ref="char:EOLhyphen"/>miſſion was Illegal. Thus, I am ſure, the Opinions and Complaints ran, before, and at the Arrival of his Preſent Majeſty.</p>
+               <pb n="7" facs="tcp:41144:5"/>
+               <p>It is not eaſie to imagine from whence he could have receiv'd this Notion, unleſs it were from <hi>Bp. Cartwright</hi>'s Book, who for his own Juſtification, maintain'd that Law to be but Affirmative of the Old Common Law of <hi>England.</hi> And yet even that Suppoſiti<g ref="char:EOLhyphen"/>on, were it true, would not anſwer the Deans Purpoſe, as will appear by and by.</p>
+               <p>I believe, You Sir, who are a good man, will be apt to think, that it Savors ſtrongly of Prevarication to Print part of a Clauſe, and omit the moſt material words in it, which are plac'd in the midſt of the Para<g ref="char:EOLhyphen"/>graph, and could not well be overlook'd, but by one that was reſolv'd to overlook 'em, be<g ref="char:EOLhyphen"/>cauſe it was for his purpoſe to do ſo. Yet this little Piece of Art the Dean has ſtoop'd to, as you ſhall ſee preſently: which is the more re<g ref="char:EOLhyphen"/>markable, becauſe he has Printed the Words of the Act in a different Character; which, amongſt ingenuous Perſons, I think, ſup<g ref="char:EOLhyphen"/>poſes a Literal Recital.</p>
+               <pb n="8" facs="tcp:41144:6"/>
+               <p>This way of Dealing I confeſs, as odd as it is, is not wholly without a Precedent, (whether it will warrant or juſtify our Ma<g ref="char:EOLhyphen"/>ſter I ſhall leave you to determine,) but he has the Honour of following the example of a <hi>Reverend Prelate,</hi> who upon a certain oc<g ref="char:EOLhyphen"/>caſion thought fit to launch out of his Pro<g ref="char:EOLhyphen"/>feſſion, and argue a Law-Point: to prove his Argument he quoted a Charter, but was pleas'd to repeat only half the words of the ſentence, and then ſtop't ſhort, omitting theſe, <hi>Salva Perſona noſtra, Regina noſtra, &amp; Liberis nostris, donec emendatum fuerit; &amp; quandocun<g ref="char:EOLhyphen"/>que Emendatum eſſet, intendent nobis ſicut prius: Matthew Paris</hi> can give you the whole in King <hi>John's</hi> Reign; but the miſchief is, the latter words, if inſerted, wou'd have ſpoil'd the force of that inference for which the Quotation was us'd, and we are not to ex<g ref="char:EOLhyphen"/>pect from <hi>either of 'em</hi> that they ſhou'd <hi>every day</hi> anſwer their own Arguments. This Practiſe is too often obſervable in the
+<pb n="9" facs="tcp:41144:6"/>Diſcourſes of Thoſe, who, to ſhew their Read<g ref="char:EOLhyphen"/>ing, endeavour to fetch Arguments from Pro<g ref="char:EOLhyphen"/>feſſions, in which they were never Educated, or not ſufficiently Studied.</p>
+               <p>Sir, I muſt beg you, not to con<g ref="char:EOLhyphen"/>ſtrue this Reflection as general: For it muſt be acknowledg'd, that Your Gown doth afford many inſtances to the contrary; and particularly, the Univerſal Learning, and apparent Sincerity of the great <hi>Biſhop of Worceſter,</hi> is a notorious ex<g ref="char:EOLhyphen"/>ception to theſe Remarks. He muſt be own'd to have read more of our Law-Books than, perhaps, any man that is not a Lawyer; and to have employ'd what he has read Knowingly and Fairly. But as 'tis plain our Dean has no pretence to the Firſt Part of this Character, ſo whether he has any to the Latter, or not, you are to judg upon what follows.</p>
+            </div>
+            <div type="case">
+               <pb n="10" facs="tcp:41144:7"/>
+               <head>The Caſe is thus.</head>
+               <p>A Sermon is Preach'd at <hi>Oxford,</hi> in which there is a Paſſage complain'd of, as giving occaſion of Offence. The Vice-chancellor Convenes ſeveral Heads of Houſes, amongſt which were more than ſix Doctors of Divini<g ref="char:EOLhyphen"/>ty. They Judg, Declare and Determine theſe Propoſitions (that there are <hi>Three Infi<g ref="char:EOLhyphen"/>nite Diſtinct Minds and Subſtances</hi> in the Tri<g ref="char:EOLhyphen"/>nity; and that the Three Perſons in the Trinity are <hi>Three distinct Infinite Minds</hi> or <hi>Spirits,</hi> and <hi>Three Individual Substances</hi>) to be Falſe, Impious, and Heretical, diſſonant, and contrary to the Doctrine of the Catholick Church; and eſpecially to the Doctrine of the Church of <hi>England</hi> publickly receiv'd. <hi>Wherefore</hi> they do Command and publickly Enjoyn all and ſingular, the Perſons commit<g ref="char:EOLhyphen"/>ted to their Care, not to publiſh for the future any ſuch Tenet in their Sermons, or otherwiſe.</p>
+               <pb n="11" facs="tcp:41144:7"/>
+               <p>The Queſtion now, upon this Caſe, is, Whether the <hi>Vice-Chancellor</hi> and Heads of Houſes have been guilty of any Crime, ac<g ref="char:EOLhyphen"/>cording to the Laws of this Realm, either Eccleſiaſtical or Civil, or by the Statutes of the Univerſity?</p>
+               <p>I ſay, that the Negative is plain. For, firſt, this is not a <hi>Judicial</hi> Proceeding, in order to puniſh the Perſon who had publickly maintain'd theſe Propoſitions, but a Decla<g ref="char:EOLhyphen"/>ration rather of their Opinion by way of Caution, to the Members of the Univerſity under their Care: The <hi>Wherefore,</hi> in he Cloſe, doth plainly ſhew their honeſt and juſtifiable intent and deſign. And no man can have the Forehead to aſſert, that Twen<g ref="char:EOLhyphen"/>ty Men may not deny the Notion in Debate to be true, with as much Freedom, by our Law, as Two or Three may affirm it. Nay, if it was their Judgment and Opinion, as undoubtedly it was, the Morals even of a Lawyer will aſſure the Dean, that it was
+<pb n="12" facs="tcp:41144:8"/>their Duty to declare ſo, in order to prevent the Growth of the ſuppos'd Error, or Here<g ref="char:EOLhyphen"/>ſy among thoſe committed to their Charge. The Judgment of Univerſities hath been Frequently and Legally declar'd upon Leſs Occaſions, even upon the Printing of Pam<g ref="char:EOLhyphen"/>phlets, tho out of their Precincts, and by Perſons not under their Care. Their Pow<g ref="char:EOLhyphen"/>er hath, with Allowance, been extended to forbid the Reading of Erroneous Treatiſes; and how comes it to be a Crime in them then to Cenſure, what is publickly Preach'd be<g ref="char:EOLhyphen"/>fore them, by One of their Own Members?</p>
+               <p>But ſupoſing it to be a <hi>Judicial</hi> Proceeding; yet their Statutes are their Warrant for it. The plain words of which are, <hi>Haeretici, Schiſmatici, &amp; quicun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> alii minus recte de Fide Catholica &amp; Doctrina vel Diſciplina Eccleſiae Anglicanae ſentientes, uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tam Conciones quam Libri quibus maleſanae opiniones propagantur cohi<g ref="char:EOLhyphen"/>beantur.</hi> And this is intruſted <hi>Judicio Vice<g ref="char:EOLhyphen"/>cancellarii, aſſidentibus Ipſi Praefectis in Ordina<g ref="char:EOLhyphen"/>rio ſuo Conventu.</hi> Thus runs the Statute, <hi>de
+<pb n="13" facs="tcp:41144:8"/>Authoritate &amp; Officio Vice-Cancellarii.</hi> There is another Statute as to Sermons, and that runs thus, <hi>Siquis pro Concione aliqua, intra <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſitatem ejuſve Praecinctum habita quicquam doctrinae vel diſciplinae Eccleſiae Anglicanae publi<g ref="char:EOLhyphen"/>ce receptae diſſonum aut contrarium protuerit, ſive protuliſſe ab ipſo Vice-Cancellario ſuſpectus, vel alio aliquo rationabilem ſuſpicionis Cauſam afferentede<g ref="char:EOLhyphen"/>latus fuerit; the</hi> Vicechancellor may thereupon proceed, <hi>adhibito Conſilio Sex aliorum S<hi rend="sup">tae.</hi> Theologiae Doctorum (quorum <g ref="char:V">Ʋ</g>nus ſit S<hi rend="sup">tae.</hi> Theologiae Pro<g ref="char:EOLhyphen"/>feſſor Regius, ſi concioni interfuerit.)</hi> There is not a ſtep they have taken in this Affair, which is not according to the Power grant<g ref="char:EOLhyphen"/>ed to 'em in theſe words. And I wonder therefore what the Dean means by reproach<g ref="char:EOLhyphen"/>ing their Proceedings as <hi>Irregular</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nſta<g ref="char:EOLhyphen"/>tutable.</hi> There ſeems to be a Fate upon him in miſ-underſtanding and miſ-repreſenting every thing that carries the Name of a Law; for he deals juſt as skilfully, and fairly with theſe Local Statutes, as he does afterwards with thoſe of the Realm.</p>
+               <pb n="14" facs="tcp:41144:9"/>
+               <p>If then theſe Statutes of theirs are valid, they are an Ample Warrant for what they have done: And Valid they are, unleſs they are contrary to the expreſs known Laws of the Realm, which I ſhall prove 'em not to be immediately. In the mean Time, ſup<g ref="char:EOLhyphen"/>poſing there were an Error in their Proceed<g ref="char:EOLhyphen"/>ings, it is but the Error of a Judge at moſt, which is never Criminal by any Law in the World (unleſs Corruption attend the Sen<g ref="char:EOLhyphen"/>rence) where the Perſon and the ſubject Matter are within his Juriſdiction. Now, in both Reſpects, That is the Caſe here. 'Twas a Member of the Univerſity that main<g ref="char:EOLhyphen"/>tain'd the Propoſition cenſur'd, 'twas in a Sermon preached before the Univerſity. The ſubject matter of the Words relates not to the Temporal Government, but mere<g ref="char:EOLhyphen"/>ly to an Opinion in Religion, to an Article of Faith: And it muſt be agreed, that Ser<g ref="char:EOLhyphen"/>mons before them, and the Doctrines deli<g ref="char:EOLhyphen"/>ver'd in thoſe Sermons, are under their Cogniſance. Now ſuppoſing the Cenſure
+<pb n="15" facs="tcp:41144:9"/>to be a <hi>Miſtake,</hi> no Man of ſenſe but the Dean, will pretend that this miſtake is a <hi>Crime:</hi> It only gives Cauſe of Appeal to ſome Superior Judge, in Caſe the Conſtitu<g ref="char:EOLhyphen"/>tion allows one; as Ours, both in Civil and Eccleſiaſtical matter, doth in moſt Parti<g ref="char:EOLhyphen"/>culars.</p>
+               <p>There are but few Caſes of any kind or Nature whatſoever, where the Law hath impowr'd a Final Determination in the firſt Inſtance: Even in Colledges and Univerſi<g ref="char:EOLhyphen"/>ties there are Viſitors, and in moſt Caſes, Appeals from the firſt Order or Sentence. Mankind doth ſo generally agree this to be reaſonable, in conſideration of our obnoxi<g ref="char:EOLhyphen"/>ouſneſs to Error, that Appeals are deem'd Remedies approv'd by the Law of Nature; and in this, Divines, Canoniſts, Civili<g ref="char:EOLhyphen"/>ans, and Common-Lawyers do all agree: And, if ſo, with what Colour can the Dean inſinuate, that this Proceeding hath brought either the Perſons concern'd, of the Univerſity, into any danger, ſupping if
+<pb n="16" facs="tcp:41144:10"/>contrary to the Laws of the Realm.</p>
+               <p>The next thing to be conſider'd, is, whe<g ref="char:EOLhyphen"/>ther any Law of the Realm doth controul or over-rule this matter?</p>
+               <p>The Dean ſays, that ſuch Declarations are not fit to be intruſted with any Body of Men leſs than a National Synod. I ſhall not diſpute about Convenience; tho, with ſubmiſſion to better Judgments, Our Conſti<g ref="char:EOLhyphen"/>tution can hardly admit of any Alteration, but for the worſe. But the queſtion is how the Law ſtands?</p>
+               <p>The Objection is from the 1ſt of <hi>Eliz.</hi> Cap. 1. Upon which the Dean ſays. We find <hi>the power to order, determine, or adjudge any matter or Cauſe to be Hereſy,</hi> reſtrain'd one<g ref="char:EOLhyphen"/>ly to <hi>ſuch as heretofore have been determin'd, or<g ref="char:EOLhyphen"/>der'd or adjudg'd to be Hereſy by the Authority of the Canonical Scriptures, or by the firſt Four General Councils, or by any other General Coun<g ref="char:EOLhyphen"/>cel,
+<pb n="17" facs="tcp:41144:10"/>wherein the ſame was declar'd Hereſy by the Ex<g ref="char:EOLhyphen"/>preſs and plain Words of the ſaid Canonical Scriptures; or ſuch as hereafter ſhall be order'd, judg'd, or determin'd to be Hereſy, by the High Court of Parliament of this Realm, with the aſ<g ref="char:EOLhyphen"/>ſent of the Clergy in their Convocation.</hi> This is his Quotation: Then he goes on thus, And if the King could not grant a greater Authority than this to his High Commiſſi<g ref="char:EOLhyphen"/>oner for Eccleſiaſtical Affairs, it is not like<g ref="char:EOLhyphen"/>ly that any other Body of Men have it. And my Lord <hi>Coke</hi> ſays, That this is a direction to others, eſpecially to Biſhops, in their ad<g ref="char:EOLhyphen"/>judging Hereſy, 3 <hi>Inſtit.</hi> pag. 40. <hi>And how they have obſery'd this Law in their Decree, they had beſt conſider.</hi>
+               </p>
+               <p>To which I anſwer; That, were this Law in force, and did it concern them, yet for the Reaſons above mention'd, 'tis no more than an Erroneous Judgment, as we have ſeen many on the 25 <hi>E.</hi> 3. and revers'd with abhorrence; and yet the Judges not deem'd offenders, becauſe they were not ſo Wiſe as
+<pb n="18" facs="tcp:41144:11"/>their Superiors, who were of another Opi<g ref="char:EOLhyphen"/>nion. But his Emphafis lies on the laſt words, <hi>They had beſt conſider how they have ob<g ref="char:EOLhyphen"/>ſerv'd that Law.</hi> You, Sir, know beſt, whether the Poſition be declar'd Hereſy by any of thoſe Councils: But, I'm ſure, I know, that there is no ſuch Law in force; and, if there were, yet it concerns not this matter. Firſt, It no ways concerns this Procedure, but only a Legal Proceſs upon a Perſon for Hereſy, in order to his being condmn'd, and deliver'd over to the Secular Power, to be burn't. In the next place, it concerns only the High-Commiſſioners, and none elſe; it was not intended to oblige even the Biſhop of a Di<g ref="char:EOLhyphen"/>oceſe in his Ordinary Proceeding. 'Tis true, <hi>Coke</hi> ſays, That it may ſerve for a good Direction to Others, more eſpecially to a Dioceſan, being ſole Judge in ſo weighty a Cauſe; but he doth not ſay it obliges him, nor can He, or any body elſe pretend it does: much leſs doth <hi>Coke</hi> ſay, that it extends to a
+<pb n="19" facs="tcp:41144:11"/>
+                  <hi>Vice-Chancellor</hi>'s Government of the Univer<g ref="char:EOLhyphen"/>ſity, with the Aſſiſtance of the Heads of Houſ<g ref="char:EOLhyphen"/>es, or Doctors of Divinity: Neither Dio<g ref="char:EOLhyphen"/>ceſans nor Univerſities are mention'd or in<g ref="char:EOLhyphen"/>tended, as appears by the whole Contexture of the Act.</p>
+               <p>But ſuppoſe the Act were Directory, nay, Compulſive upon a Dioceſan (which 'tis not) doth it follow that the Direction extends to Univerſities alſo? The meaning of a Law is, to be extended no further than the Words of it, and not ſtrain'd, to take in Parallel-Caſes and Remote Conſequences. Then, conſider the Reaſon of the thing; May not the Univer<g ref="char:EOLhyphen"/>ſity be allow'd to cenſure a Member for He<g ref="char:EOLhyphen"/>retical Words, tho they ſhould not be ſuch as contain'd Hereſy condemnable by the Ordi<g ref="char:EOLhyphen"/>nary? May they not caution againſt a Doct<g ref="char:EOLhyphen"/>rine as Heretical, for which the Ordinary cannot Sentence in order to Death? The Puniſhment of Hereſy at the Time, when this Statute was in force, was Fire: Suppoſe the Biſhop oblig'd by this Law now, yet he
+<pb n="20" facs="tcp:41144:12"/>could not puniſh ſuch Hereſy as was within it, but upon a contumacious Adherence of the Offending Party to his Opinion. Do's it follow from thence, that the <hi>
+                     <g ref="char:V">Ʋ</g>niverſity</hi> may not Cenſure other Words, which do not ſtrictly come within the Statute, as Impious and Heretical? Nor reprimand one of her own Members for uſing 'em?</p>
+               <p>But this is a Debate upon Suppoſitions on<g ref="char:EOLhyphen"/>ly, and thoſe utterly falſe. For <hi>Coke</hi> him<g ref="char:EOLhyphen"/>ſelf tells us, in the Firſt words of the very Sentence quoted by the <hi>Dean,</hi> that the Act extended only to the High-Commiſſioners, which were appointed by the King in pur<g ref="char:EOLhyphen"/>ſuance of it. So that if the Dean had Print<g ref="char:EOLhyphen"/>ed the whole ſentence, as it lies in my Lord <hi>Coke,</hi> he would not have been capable of raiſing ſo much as the ſhadow of an Argu<g ref="char:EOLhyphen"/>ment from it. How this agrees with the Common Rules of ſincerity; the Dean, who underſtands how to reconcile every thing to every thing, may pleaſe to tell us; for I dare ſay, no body elſe can.</p>
+               <pb n="21" facs="tcp:41144:12"/>
+               <p>However, take it again as he would have it; and let us ſee what follows. Becauſe this is a Direction to Biſhops in their Dio<g ref="char:EOLhyphen"/>ceſes (whereas <hi>Coke</hi> only ſays, <hi>It may ſerve</hi> for a good Direction to 'em, in ſo weighty a Cauſe; and ſo, That's not very fairly quot<g ref="char:EOLhyphen"/>ed neither) becauſe this is a Direction to the Ordinary; therefore, What! Therefore, you had beſt conſider, how You have obſerv'd that Law, which does not concern You! O the Power of No-Logic and No-Law, met together!</p>
+               <p>As he clips <hi>Coke's</hi> Opinion, ſo he maims the very Paragraph of the Act of Parlia<g ref="char:EOLhyphen"/>ment, upon which he founds his imply'd Menace. For, as it lies in the Act, it is a Reſtraint of the Power, which the High-Commiſſioners were to have, by Vertue of the King's Letters Patents, and of that Act. The words are, <hi>by Vertue of this Act,</hi> and theſe he omits. Now this Proviſo implies, that, if the Proviſo had not been added, the General Purview had given them a
+<pb n="22" facs="tcp:41144:13"/>greater Latitude and Power; for otherwiſe the Proviſo had been uſeleſs. The General Purview, giving a Power to exerciſe Eccleſi<g ref="char:EOLhyphen"/>aſtical Juriſdiction, it muſt be ſuppos'd, that Eccleſiaſtical Juriſdiction might declare and puniſh other Hereſys, than what are mention'd in the Proviſo; and the Proviſo's being reſtrain'd only to thoſe Commiſſion<g ref="char:EOLhyphen"/>ers, ſhews, that the Law-Makers thought other Hereſys might be declar'd and pun<g ref="char:EOLhyphen"/>iſh'd, than what are there mention'd: Tho they would not permit Theſe Commiſſioners to declare any other.</p>
+               <p>But further, If there be a Repeal of the Clauſe which enacts the High-Commiſſion-Court, (as there is by the 17 <hi>Car.</hi> 1. <hi>Cap.</hi> 11.) the Proviſo, in reſtraint of theſe Commiſſi<g ref="char:EOLhyphen"/>oners, is, and muſt be Repeal'd too. This Na<g ref="char:EOLhyphen"/>tural Reaſon and Common ſenſe might have taught the Dean, without his reſorting to the Temple Library, or conſulting his Men of Skill about the matter. For either that power of Erecting an High-Commiſſi<g ref="char:EOLhyphen"/>on-Court
+<pb n="23" facs="tcp:41144:13"/>was in affirmance of the Com<g ref="char:EOLhyphen"/>mon-Law, or introductive of a New Law. If the former, as was Argu'd in the laſt Reign; yet, even then, this <hi>proviſo</hi> being reſtrain'd to ſuch Exerciſe of Eccleſiaſtical Juriſdiction by Letters Patents by Vertue of that Act; the ſame can never extend to o<g ref="char:EOLhyphen"/>ther Ordinary Acts, or Exerciſe of Juriſ<g ref="char:EOLhyphen"/>diction, without a ſpecial Commiſſion, be<g ref="char:EOLhyphen"/>cauſe the words have ſo reſtrain'd it. And if the Power of that Court were New, and Created by that Act, as all the <hi>Dean's</hi> Lawyers do, and muſt contend; then the Court being gone, the <hi>Proviſo</hi> in reſtraint of it is vaniſh't too. So that at laſt here is no 1 <hi>Eliz.</hi> cap. 1. left for the <hi>
+                     <g ref="char:V">Ʋ</g>niverſity</hi> to conſider; and the <hi>Dean</hi> has dealt with Them, as the World often has with Him; has thrown away his Advice upon 'em to no purpoſe.</p>
+               <p>It is News to Me, Sir, and will be ſo to the World, I believe, what you tell me, with regard to the <hi>Reprimand,</hi> ſuppos'd to have
+<pb n="24" facs="tcp:41144:14"/>been given lately to the <hi>
+                     <g ref="char:V">Ʋ</g>niverſity.</hi> It has been talk'd very confidently of here in Town, as a thing paſt Diſpute, and the <hi>Dean, I</hi> aſſure you, has taken Heart upon't, and (according to his way) defi'd all the World more than once from the Pulpit in the ſtrength of it. And <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſend me word, That <hi>it does not at all <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Meet<g ref="char:EOLhyphen"/>ing of the Heads of Houſes, or of the <g ref="char:V">Ʋ</g>niverſity, that any ſuch</hi> Reprimand, <hi>ſo much talk't of here, has been ſent:</hi> And this, you ſay, I may de<g ref="char:EOLhyphen"/>pend upon, as certain.</p>
+               <p>You ſurprize me, Sir, and I believe what I am going to ſay, will as much ſurpriſe You. You tell me, that it is taken for granted at <hi>Oxford,</hi> that the Judges of <hi>England</hi> have giv<g ref="char:EOLhyphen"/>en their Opinions in Prejudice of the <hi>
+                     <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſicy,</hi> and their Proceedings.</p>
+               <p>You may be aftured, that this Report, as loud and as largely ſpread as it is, is ſcanda<g ref="char:EOLhyphen"/>lous and groundleſs. You may be aſſur'd of it, I ſay, both from the known Law of the Realm, and from the known Honour and Pro<g ref="char:EOLhyphen"/>bity
+<pb n="25" facs="tcp:41144:14"/>alſo of the Perſons filling thoſe Places. For by our Law, the Judges are not to give any O<g ref="char:EOLhyphen"/>pinion out of Court, upon any Matter, that may poſſibly come before 'em in Judgment; and if they do, 'tis an Irregularity in their Behavi<g ref="char:EOLhyphen"/>our; an Indecency, ſeldom committed, but never own'd. For ſuch Opinions, being Ex<g ref="char:EOLhyphen"/>trajudicial, are not upon their Oaths; and are neither obligatory to themſelves, nor valu'd by others. 'Tis a Reproach upon the King to ſup<g ref="char:EOLhyphen"/>poſe their Opinion ask'd in this caſe. Many of 'em, I am ſure, when requeſted by <hi>Miniſters,</hi> upon greater occaſions than this, have refus'd to give it, as in Juſtice and Honour it became 'em; and would therefore, if they ſhould have been ask't upon this, have certainly de<g ref="char:EOLhyphen"/>ny'd it. <hi>Shipmony,</hi> and <hi>Non-obſtante's,</hi> and <hi>Quo<g ref="char:EOLhyphen"/>warranto</hi>'s had ſome ſuch Preliminary Interro<g ref="char:EOLhyphen"/>gatories about Opinions; but Experience tells us, that the Nation would not bear it: Beſides, Theſe Gentlemen now on the Bench are not quite ſo Dependent on the Crown, as the <hi>Bene<g ref="char:EOLhyphen"/>placito</hi> Men were.</p>
+               <p>'Tis true, they are bound to adviſe the King, when requir'd: But that cannot be concerning an Act already done by the Subject, whether
+<pb n="26" facs="tcp:41144:15"/>Lawful or Criminal? For in theſe Caſes the King hath his Serjeant, his Attorny, Sollicitor, and other Counſel, Learned in the Law, to ad<g ref="char:EOLhyphen"/>viſe w<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</p>
+               <p>You may depend upon't therefore, that no<g ref="char:EOLhyphen"/>thing of that Nature can have been done or attempted, as peremptory as the <hi>Dean</hi>'s Crea<g ref="char:EOLhyphen"/>tures have been upon <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccaſion.</p>
+               <p>So that, upon the whole, think you need not ſneak to any <hi>Socinian, Tritheist,</hi> or <hi>Latitudina<g ref="char:EOLhyphen"/>rian</hi> whatever, upon the account of the evil Con<g ref="char:EOLhyphen"/>ſequences that may attend your Conduct in this matter. Fools and Cowards may blame you for having gone ſo far; but with Wife and Honeſt Men, your only Fault will be, if you go no farther.</p>
+               <p>Sir, I might enlarge upon the <hi>Powers</hi> and <hi>Priviledges</hi> of the <hi>
+                     <g ref="char:V">Ʋ</g>niverſity,</hi> in reſpect of de<g ref="char:EOLhyphen"/>claring Doctrines to be Erroneous; and I could find Materials enough from good Hiſtories, Re<g ref="char:EOLhyphen"/>ports, and Journals, and thoſe approv'd by Lawyers, for that purpoſe: But at preſent, I think it enough to have anſwer'd the <hi>Dean,</hi> till he ſhall be pleas'd to give further occaſion by Writing about Law Points again.</p>
+            </div>
+            <closer>
+               <signed>I am, Sir, Your moſt humble Servant.</signed>
+               <dateline>
+                  <date>
+                     <hi>Feb.</hi> 3. 1695.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:41144:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
